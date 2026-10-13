@@ -1,5 +1,5 @@
 
-# Experiment 3: Structured vs. Unstructured LLM Output
+# Experiment 8: Structured vs. Unstructured LLM Output
 
 ## Aim
 To learn how to prompt an LLM to generate structured and
